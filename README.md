@@ -12,7 +12,7 @@ visualization, and predictive modeling, helping businesses make data-driven deci
 ## Projects Highlights
   1. PizzaHut Sales Analysis: Designed dashboards and insights using SQL & Power BI to track sales trends and performance metrics.
   2. COVID-19 Data Analysis: Conducted performance analysis using Power BI, creating interactive dashboards to visualize cases and trends.
-  3.Preference Analysis: Analyzed customer behavior and preferences, delivering actionable insights through dashboards and reports.
+  3. Preference Analysis: Analyzed customer behavior and preferences, delivering actionable insights through dashboards and reports.
 
 ## Learning & Interests
 1. Advanced Machine Learning & AI models
