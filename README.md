@@ -3,6 +3,8 @@
 I’m a Data Scientist passionate about turning complex data into actionable insights. I specialize in data analysis, 
 visualization, and predictive modeling, helping businesses make data-driven decisions.
 
+My portfolio: http://govindprofile.ccbp.tech
+
 ## Skills & Tools
   1. Programming & Analysis: Python (Pandas, NumPy, Scikit-learn), SQL, R
   2. Data Visualization: Power BI, Matplotlib, Seaborn, Tableau
